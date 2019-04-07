@@ -20,7 +20,7 @@ function sayHiToGrandma(string) {
   .toEqual("I can't hear you!'string")
 
 
-it('sayHiToGrandma(string') {
+it(sayHiToGrandma(string) {
 
 console.log(sayHiToGrandma()
 .toEqual("YES INDEED!")
