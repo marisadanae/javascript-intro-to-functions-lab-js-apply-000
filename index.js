@@ -14,19 +14,19 @@ function logWhisper(string) {
   console.log(string.toLowerCase())
 }
 
-function ('sayHiToGrandma(string') {
+function sayHiToGrandma(string) {
 
   console.log(sayHiToGrandma('toLowerCase'()
   .toEqual("I can't hear you!'string")
 
 
-function ('sayHiToGrandma(string') {
+function sayHiToGrandma(string) {
 
 console.log(sayHiToGrandma()
 .toEqual("YES INDEED!")
 
 
-function ('sayHiToGrandma(string') {
+function sayHiToGrandma(string) {
 
 console.log(sayHiToGrandma('Iloveyou,Grandma'()
 .toEqual("I love you,too")
