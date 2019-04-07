@@ -20,7 +20,7 @@ function sayHiToGrandma(string) {
   .toEqual("I can't hear you!'string")
 
 
-if (sayHiToGrandma(string) {
+ (sayHiToGrandma(string) {
 
 console.log(sayHiToGrandma()
 .toEqual("YES INDEED!")
@@ -31,3 +31,13 @@ function sayHiToGrandma(string) {
 console.log(sayHiToGrandma('Iloveyou,Grandma'()
 .toEqual("I love you,too")
 };
+function sayHiToGrandma(string){
+
+  if (string === string.toLowerCase()){
+    return "I can't hear you!"
+  }else if (string === string.toUpperCase()){
+    return "YES INDEED!"
+  }else if (string === "I love you, Grandma."){
+    return "I love you, too."
+  }
+}
